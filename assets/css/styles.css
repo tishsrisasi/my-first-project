@@ -8,6 +8,10 @@ body{
     background-image: url("/assets/images/background-img.jpg");
 }
 
+p {
+    font-weight: bold;
+}
+
 h2 {
     color: orangered;
 }
